@@ -13,10 +13,6 @@
 - 프로필에서 찜한 영화와 내가 남긴 후기들을 모아 볼 수 있음
 - 영화 검색 기능 지원 (약 5000개의 영화 정보 수집)
 
-### **GitHub & README**📖
-
-[https://github.com/BudDiary/BudDiary](https://github.com/BudDiary/BudDiary)
-
 ### **담당 역할🫡**
 
 - DB 모델링
